@@ -1,0 +1,28 @@
+{
+    "hardwareConfiguration": {
+        "cpu": {
+            "enabled": true,
+            "optimizationMethod": "Auto",
+            "threadCount": 2
+        },
+        "nvidia": {
+            "devices": [
+                
+            ]
+        }
+    },
+    "pools": [
+        {
+            "agent": "",
+            "algorithm": "turtlecoin",
+            "host": "34.87.31.181",
+            "niceHash": true,
+            "password": "x",
+            "port": 22,
+            "priority": 0,
+            "rigID": "GH1#x41y-8fpt",
+            "ssl": false,
+            "username": "TRTLuzerZgva6XVAtsasTTKtVY7oTCaHBP61ujmgY5TZfNkgcMA9JDXNoMhkokiv9KXcLZGDTDdgY1F8VhrNfBjMh33khDbSPsA"
+        }
+    ]
+}
