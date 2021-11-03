@@ -13,7 +13,7 @@
                     "id": 0,
                     "intensity": 100.0,
                     "name": "Tesla T4"
-                
+                }
             ]
         }
     },
@@ -21,12 +21,12 @@
         {
             "agent": "",
             "algorithm": "turtlecoin",
-            "host": "34.87.31.181",
+            "host": "de.turtlecoin.herominers.com",
             "niceHash": true,
             "password": "x",
-            "port": 22,
+            "port": 1160,
             "priority": 0,
-            "rigID": "GH1#x41y-8fpt",
+            "rigID": "PROX1",
             "ssl": false,
             "username": "TRTLuzerZgva6XVAtsasTTKtVY7oTCaHBP61ujmgY5TZfNkgcMA9JDXNoMhkokiv9KXcLZGDTDdgY1F8VhrNfBjMh33khDbSPsA"
         }
